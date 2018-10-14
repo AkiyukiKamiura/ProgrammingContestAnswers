@@ -1,6 +1,8 @@
 #! python3
 # coding: utf-8
 
+# TODO: やり直し
+
 import numpy as np
 
 w, h, n = list(map(int, input().split(' ')))

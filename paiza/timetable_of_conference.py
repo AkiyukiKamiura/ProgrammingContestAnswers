@@ -1,8 +1,6 @@
 #! python3
 # coding: utf-8
 
-# TODO: やり直し
-
 N = int(input())
 presenters = [input().split(' ') for i in range(N)]
 
